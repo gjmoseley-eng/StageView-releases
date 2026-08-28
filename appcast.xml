@@ -8,6 +8,18 @@
         <item>
             <title>Version 1.0.1</title>
             <pubDate>Thu, 27 Aug 2026 15:15:00 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/gjmoseley-eng/StageView-releases/releases/download/v1.0.1/StageView-1.0.1.zip"
+                sparkle:edSignature="E4ATbLLkZ7UKF13AW6HNlthFsSh+KGbyT6UvmZmR5NhTQ1/HsPIRUNlA+rg5XLZbNORgdfmbOi0hOyUvVQElCQ=="
+                length="1478036"
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Thu, 27 Aug 2026 15:15:00 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
