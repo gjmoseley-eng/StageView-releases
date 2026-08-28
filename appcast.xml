@@ -5,9 +5,9 @@
         <link>https://gjmoseley-eng.github.io/StageView-releases/appcast.xml</link>
         <description>Most recent updates for StageView</description>
         <language>en</language>
-        <item>
-            <title>Version 1.0.1</title>
-            <pubDate>Thu, 27 Aug 2026 15:15:00 -0500</pubDate>
+                <item>
+            <title>Version 1.0.3 (test)</title>
+            <pubDate>Fri, 28 Aug 2026 12:30:00 -0500</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
