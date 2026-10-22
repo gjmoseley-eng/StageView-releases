@@ -6,6 +6,18 @@
         <description>Most recent updates for StageView</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.1</title>
+            <pubDate>Thu, 22 Oct 2026 12:31:08 -0500</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/gjmoseley-eng/StageView-releases/releases/download/v1.1.1/StageView-1.1.1.zip"
+                sparkle:edSignature="5t9FAP4XrFM78CjPRWKsOVgBhMjNnmE2HyBnT/xeD773I3gf7zP+8YXnpI5rSar4pm3ysu2l4nmI0X1IjgTtDw=="
+                length="4026093"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <pubDate>Thu, 22 Oct 2026 12:00:00 -0500</pubDate>
             <sparkle:version>8</sparkle:version>
